@@ -7,3 +7,6 @@ select
 from user_orders t
 group by t.user_id
 order by t.user_id;
+
+
+select a, b from t;
